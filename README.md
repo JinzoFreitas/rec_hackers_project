@@ -1,0 +1,1 @@
+# Sejam bem-vindos ao projeto RecHackers!
